@@ -1,0 +1,20 @@
+{
+  "name": "st-bakugo",
+  "description": "The Lumerit Anime Club's in-house Discord bot",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhaymond/st-bakugo.git"
+  },
+  "author": "David Haymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidhaymond/st-bakugo/issues"
+  },
+  "homepage": "https://github.com/davidhaymond/st-bakugo#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {}
+}
